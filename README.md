@@ -308,6 +308,18 @@ git add .
 git commit -m "Add new feature"
 git push origin feature/new-feature
 
+
+🧪 Sample Player Data
+    player p[5] = 
+    {
+        {"Virat", 18, 250, 12898, 4},
+        {"Rohit", 45, 243, 10500, 9},
+        {"Bumrah", 93, 150, 350, 310},
+        {"Jadeja", 8, 200, 3200, 280},
+        {"Pant", 17, 120, 4200, 5}
+    };
+
+    
 👨‍💻 Author
 Lokesh Pusdekar
 💻 C Programming | 📚 Student | 🚀 Aspiring Devel
