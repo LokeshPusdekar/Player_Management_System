@@ -635,29 +635,29 @@ void top_3(player* p, int size)
 
 int main()
 {   
-    // int arr_size, choice;
-    // int  count = 0;
+    int arr_size;
+    int  count = 0;
     int choice;
-    // printf("Enter the number of Player details you want to enter:");
-    // scanf("%d",&arr_size);
-    // player *p = malloc (arr_size * sizeof(player));
-    // if (p == NULL)
-    // {
-    //     printf("Memory allocation failed.\n");
-    //     return 1;
-    // }
-
-    int arr_size = 5;
-    int count = 5;
-
-    player p[5] = 
+    printf("Enter the number of Player details you want to enter:");
+    scanf("%d",&arr_size);
+    player* p = malloc (arr_size * sizeof(player));
+    if (p == NULL)
     {
-        {"Virat", 18, 250, 12898, 4},
-        {"Rohit", 45, 243, 10500, 9},
-        {"Bumrah", 93, 150, 350, 310},
-        {"Jadeja", 8, 200, 3200, 280},
-        {"Pant", 17, 120, 4200, 5}
-    };
+        printf("Memory allocation failed.\n");
+        return 1;
+    }
+
+    // int arr_size = 5;
+    // int count = 5;
+
+    // player p[5] = 
+    // {
+    //     {"Virat", 18, 250, 12898, 4},
+    //     {"Rohit", 45, 243, 10500, 9},
+    //     {"Bumrah", 93, 150, 350, 310},
+    //     {"Jadeja", 8, 200, 3200, 280},
+    //     {"Pant", 17, 120, 4200, 5}
+    // };
 
 
 
