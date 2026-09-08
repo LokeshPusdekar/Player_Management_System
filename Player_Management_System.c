@@ -714,6 +714,6 @@ int main()
             break;
         }
     }
-    //free(p);
+    free(p);
     return 0;
 }
