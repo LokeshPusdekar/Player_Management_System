@@ -2,7 +2,7 @@
 <p align="center"> <img src="https://img.shields.io/badge/Language-C-blue?style=for-the-badge&logo=c" alt="C"> <img src="https://img.shields.io/badge/Project-Mini%20Project-orange?style=for-the-badge" alt="Mini Project"> <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" alt="Status"> </p> <p align="center"> <b>A simple and efficient console-based Player Management System built using C programming.</b> </p>
 📌 About The Project
 Player Management System is a console-based mini project developed in C programming to manage and maintain cricket player records.
-The project provides a simple menu-driven interface that allows users to add, view, search, update, delete, and analyze player information.
+The project provides a simple menu-driven interface that allows users to add, view, search, update, delete, and analyze player information. 
 
 This project was created to practice and demonstrate important C programming concepts such as:
 
